@@ -1,0 +1,21 @@
+﻿Object,Description,Reference
+notes,rich cluster of galaxies,
+redshift,0.1072,Ebeling et al.1998
+redshift,0.103,Trujillo et al. 2001
+redshift,0.108,Clarke et al. 2013
+redshift,"0.110, Keck/DEIMOS",Golovich et al. 2019
+redshift,0.108,Nuza et al. 2017
+redshift,0.107,Andrade-Santos et al. 2017
+redshift,0.108,Lidman et al. 2012
+kT,"5.2 keV,  ROSAT",Ebeling et al.1998
+kT,"〖7.12〗_(-0.33)^(+0.38) keV, Chandra",Clarke et al. 2013
+"kT, r2500",〖9.597〗_(-0.231)^(+0.268)  keV,Hollowood et al. 2019
+L_X,"6.9×10^44 h^(-2) erg〖s s〗^(-1), 2-10 keV",Henry et al. 1996
+L_X,"1.9×10^44 h^(-2) erg〖s s〗^(-1), 0.1-2.4 keV",Nuza et al. 2017
+L_X,"1.901314±0.009354×10^44 10^(-7) W(kg⋅m^(+2)⋅s^(-3)), soft band",Hollowood et al. 2019
+Abundance,"0.377±0.09, Chandra",Clarke et al. 2013
+"M_(200, past)",0.31±0.05×10^15  M_⊙,Lidman et al. 2012
+"M_(200, now)",0.39±0.06×10^15  M_⊙,Lidman et al. 2012
+M_BCG,0.53±0.06×10^12  M_⊙,Lidman et al. 2012
+M_200,5.22×10^14  M_⊙,Sand et al. 2012
+R_200,1600 kpc,Sand et al. 2012
